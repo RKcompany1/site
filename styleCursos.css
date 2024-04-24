@@ -1,0 +1,43 @@
+body{
+    background-color: #eeeeee;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  /*navbar*/
+  .navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+  }
+  
+  .dropdown-ser{
+    color: black;
+  }
+
+  .caixa1{
+    background-color:#eeeeee;
+  }
+  
+    .caixa2{   
+      background-color: #eeeeee;
+    }
+  
+  .caixa2 h2{
+    font-size: 50px;
+  }
+  
+  .caixa2 p{
+    font-size: 20px;
+  }
+  
+    .caixa3{
+      background-color: #eeeeee;
+      border: none;
+    }
+  
+    .caixa3 h2{
+      font-size: 45px;
+    }
+  
+    .caixa3 p{
+      font-size: 20px;
+    }  

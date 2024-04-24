@@ -1,0 +1,134 @@
+body{
+    background-color: #eeeeee;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  /*navbar*/
+  .navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+  }
+  
+  .dropdown-ser{
+    color: black;
+  }
+  
+  /*mao robo*/
+  .titulo-automacao{
+  text-align: center;
+  font-size: 100px;
+  color: #4b4b4b;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .texto-automacao{
+  text-align: center;
+  font-size: 40px;
+  color: #4b4b4b;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .btn-saibaMais{
+  border: 1px solid grey;
+  width: 200px;
+  font-size: 30px; 
+  }
+  
+  @media (max-width: 765px){
+  .robo-img{
+      display: none;
+  }
+  .titulo-automacao{
+    font-size: 50px ;
+  }
+  .texto-automacao{
+    font-size: 20px;
+  }
+  .btn-saibaMais{
+    width: 100px;
+    height: 50px;
+    font-size: 15px;
+  }
+  }
+  
+  /*sobre empresa*/
+  .con-box{
+  border-radius: 30px;
+  padding-top: 90px;
+  height: 300px;
+  }
+  
+  .texto-caixa{
+  font-size: 25px;
+  color: #4b4b4b;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .titulo-caixa{
+  color: #4b4b4b;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 80px;
+  }
+  
+  
+  
+  /*ai*/
+  .con-ai{
+  margin-top: 300px;
+  }
+  
+  .texto-ai{
+  text-align: center;
+  font-size: 30px;
+  color: #4b4b4b;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .titulo-ai{
+  text-align: center;
+  font-size: 80px;
+  color: #4b4b4b;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  @media (max-width: 765px){
+  .con-ai{
+    margin-top: 700px;
+  }
+  .titulo-ai{
+    font-size: 40px;
+  }
+  .texto-ai{
+    font-size: 15px;
+  }
+  }
+  
+  /*servicos*/
+  
+  .titulo-servicos{
+  margin-top: 200px;
+  }
+  
+  .ferramentas-card{
+  background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(205, 47, 219, 0.1);
+    overflow: hidden;
+    text-align: center;
+    padding: 20px 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    background-color: #ffffff; /* Cor de fundo da parte inferior do card */
+    height: 400px;
+    z-index: 2;
+  }
+  .ferramentas-image{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 4px solid #d3d3d3;
+    margin-bottom: 15px;
+    object-fit: cover;
+    margin: auto; /* Centraliza a imagem se dentro de um flex container */
+    display: block; /* Assegura que a imagem seja tratada como um bloco */
+    object-fit: cover; /* Cobre o espaço do círculo, pode cortar a imagem */
+    object-position: center; /* Centraliza a imagem dentro do círculo */
+  }

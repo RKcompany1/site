@@ -1,0 +1,135 @@
+body{
+    background-color: #eeeeee;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  /*navbar*/
+.navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+  }
+
+
+  .dropdown-ser{
+    color: black;
+  }
+  
+
+  /*container p1*/
+
+  .p1{
+    margin-top: 40px;
+  }
+
+.titulo1{
+    font-size: 55px;
+}
+
+.texto1{
+    font-size: 22px;
+}
+
+.img-logo{
+    width: 500px;
+    height: 500px;
+    
+}
+
+
+/*beneficios*/
+
+
+.beneficios{
+    font-size: 60px;
+    text-align: center;
+
+}
+  
+/*container p2*/
+
+.p2{
+    margin-top: 50px;
+}
+
+.textos2{
+    border-left: 5px solid rgb(132, 41, 155);
+}
+
+.titulo2{
+    font-size: 85px;
+}
+
+.texto2{
+    font-size: 22px;
+}
+
+/*container p3*/
+.p3{
+    margin-top: 50px;
+}
+
+.textos3{
+    border-left: 5px solid rgb(132, 41, 155);
+}
+
+.titulo3{
+    font-size: 85px;
+}
+
+.texto3{
+    font-size: 22px;
+}
+
+/*wave*/
+.img-wave{
+    width: 100%;
+    height: 300px;
+    margin-top: 30px;
+}
+
+/*container p4*/
+.textos4{
+    border-left: 5px solid rgb(132, 41, 155);
+}
+
+.titulo4{
+    font-size: 85px;
+}
+
+.texto4{
+    font-size: 22px;
+}
+
+/*container p5*/
+.p5{
+    margin-top: 70px;
+}
+
+.textos5{
+    border-left: 5px solid rgb(132, 41, 155);
+}
+
+.titulo5{
+    font-size: 85px;
+ 
+}
+
+.texto5{
+    font-size: 22px;
+}
+
+/*container 6*/
+.p6{
+    margin-top: 70px;
+}
+
+.textos6{
+    border-left: 5px solid rgb(132, 41, 155);
+}
+
+.titulo6{
+    font-size: 85px;
+}
+
+.texto6{
+    font-size: 22px;
+}

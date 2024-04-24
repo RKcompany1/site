@@ -1,0 +1,82 @@
+body{
+    background-color: #eeeeee;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+/*navbar*/
+.navbar-brand{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+}
+
+.dropdown-ser{
+  color: black;
+}
+
+
+  .carousel-caption h5{
+    font-size: 60px;
+    color: black;
+  }
+
+  .carousel-caption p{
+    font-size: 30px;
+    color: black;
+  }
+
+  .ferramentas-card{
+      background-color: #eeeeee;
+      border-radius: 20px;
+      overflow: hidden;
+      text-align: center;
+      padding: 20px 15px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      position: relative;
+      height: 300px;
+      padding-top: 20px;
+  }
+  .ferramentas-image{
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      border: 4px solid #d3d3d3;
+      margin-bottom: 15px;
+      object-fit: cover;
+      margin: auto; /* Centraliza a imagem se dentro de um flex container */
+      display: block; /* Assegura que a imagem seja tratada como um bloco */
+      object-fit: cover; /* Cobre o espaço do círculo, pode cortar a imagem */
+      object-position: center; /* Centraliza a imagem dentro do círculo */
+  }
+
+  .titulo-ferramentas{
+    padding-top: 20px;
+  }
+
+.caixa1{
+  background-color:#eeeeee;
+}
+
+  .caixa2{   
+    background-color: #eeeeee;
+  }
+
+.caixa2 h2{
+  font-size: 50px;
+}
+
+.caixa2 p{
+  font-size: 20px;
+}
+
+  .caixa3{
+    background-color: #eeeeee;
+    border: none;
+  }
+
+  .caixa3 h2{
+    font-size: 45px;
+  }
+
+  .caixa3 p{
+    font-size: 20px;
+  }
